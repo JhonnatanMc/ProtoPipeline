@@ -6,6 +6,7 @@
         <title>Cálculo de Cuadrados</title>
     </head>
     <body>
+         <h1>Jhonntan Macías</h1>
         <h1>Cálculo de Cuadrados</h1>
         <form action="resultado.jsp">
             <p>Ingrese a continuación el número que desea elevar al cuadrado y haga clic en Calcular:</p>
